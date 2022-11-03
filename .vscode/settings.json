@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a981dc1d-4851-4691-ad4d-c2ca701fa6de/AppServices/subscriptions/a981dc1d-4851-4691-ad4d-c2ca701fa6de/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/sh2022themerevealpranav",
+    "appService.deploySubpath": "."
+}
